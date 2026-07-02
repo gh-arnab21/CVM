@@ -1,0 +1,20 @@
+// ---------------------------------------------------------
+// TODO: This is your custom language script file!
+// You will write the actual code for your CVM++ language here.
+//
+// Based on your project scope, you can test features like:
+// 1. Variable declarations: let x = 10;
+// 2. Arithmetic operations: let y = (x + 5) * 2;
+// 3. Printing: print y;
+// 4. Control flow (if you add it): if, while, etc.
+//
+// Once you finish implementing the C++ compiler logic in the 
+// src/ folder, you will run THIS file through your compiler 
+// to see it execute!
+// ---------------------------------------------------------
+
+// A sample script to get you started:
+let a = 15;
+let b = 25;
+let sum = a + b;
+print sum;
